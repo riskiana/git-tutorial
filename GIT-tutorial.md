@@ -20,7 +20,7 @@ check generated key :
 >  ls  ~/.ssh
 
 view generated public key
->  more .\id_ed25519
+> more ~/.ssh/id_ed25519
 
 ### Adding SSH Keys to Github account
 - go to : https://github.com/settings/keys
